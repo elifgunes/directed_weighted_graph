@@ -1,0 +1,2 @@
+D:\visual studio c++\directed weighted graph\Sample-Test1\x64\Debug\Sample-Test1.vcxproj.CopyComplete
+C:\Users\Media\Desktop\directed weighted graph\Sample-Test1\x64\Debug\Sample-Test1.vcxproj.CopyComplete
